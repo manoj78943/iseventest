@@ -2,3 +2,6 @@ def is_even(n):
     if not isinstance(n, int):
         raise ValueError("Input always be an integer")
     return n % 2 == 0
+
+a = 3
+print(is_even(a))
