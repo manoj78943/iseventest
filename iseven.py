@@ -4,5 +4,4 @@ def is_even(n):
     return n % 2 == 0
 
 
-a = 4
-print(is_even(a))
+# test cases added
