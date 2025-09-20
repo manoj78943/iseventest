@@ -1,6 +1,6 @@
 from iseven import is_even
 
-a = [4, -6, 0, 3.5, "hello", True, None]
+a = [4, -6, 0, 5, 3.5, "hello", True, None, False]
 
 for num in a:
     try:
